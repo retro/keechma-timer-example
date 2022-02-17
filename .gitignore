@@ -1,0 +1,10 @@
+public/js/
+public/css/
+*.iml
+.cpcache
+.shadow-cljs
+node_modules
+.netlify/
+.clj-kondo/cache/
+.clj-kondo/.cache/
+.lsp/sqlite.*.db
